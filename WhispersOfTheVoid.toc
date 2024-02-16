@@ -1,0 +1,11 @@
+## Interface: 100200
+## Version: 1.0.0
+## Title: Whispers of the Void
+## Notes: Roleplaying addon to simulate the whispers of the void, updated for Dragonflight.
+## Author: Alalis Ravenmist
+## SavedVariables: WhispersOfTheVoidDB
+
+WhispersOfTheVoid.lua
+printTable.lua
+core\commands.lua
+core\sounds.lua
